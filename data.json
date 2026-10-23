@@ -1,0 +1,253 @@
+{
+  "users": {
+    "336a12f8-1a12-498f-a21d-d3140c18d3c0": {
+      "id": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+      "email": "rahul015january@gmail.com",
+      "passwordHash": "20bb07488ed7faaa42174facf7fbe18f85c8edd2bd39402821ce5d1240e3e1aa",
+      "name": "Rahul Rana",
+      "createdAt": "2025-09-01T17:41:30.511Z"
+    },
+    "b27d4dab-7ff4-4965-8183-728610688c55": {
+      "id": "b27d4dab-7ff4-4965-8183-728610688c55",
+      "email": "www.rsromen.com@gmail.com",
+      "passwordHash": "4345c2a97fb01a1f1feb0139440dd0e70855175e9abf640bdd3131f93262969b",
+      "name": "Rahul Rana",
+      "createdAt": "2026-10-23T00:44:07.006Z"
+    }
+  },
+  "usersByEmail": {
+    "rahul015january@gmail.com": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+    "www.rsromen.com@gmail.com": "b27d4dab-7ff4-4965-8183-728610688c55"
+  },
+  "profiles": {
+    "19a65272-5f17-46b4-8f1e-5a7a3f0044af": {
+      "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+      "fullName": "Rahul ",
+      "age": 32,
+      "location": "Dehradun",
+      "dependents": 4,
+      "filingStatus": "single"
+    },
+    "336a12f8-1a12-498f-a21d-d3140c18d3c0": {
+      "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+      "fullName": "fwerfqwe",
+      "age": 32,
+      "location": "dafsdf",
+      "dependents": 2,
+      "filingStatus": "single"
+    },
+    "b27d4dab-7ff4-4965-8183-728610688c55": {
+      "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+      "fullName": "rahul rana",
+      "age": 21,
+      "location": "dehradun uttrakhand",
+      "dependents": 2,
+      "filingStatus": "single"
+    }
+  },
+  "income": {
+    "19a65272-5f17-46b4-8f1e-5a7a3f0044af": [
+      {
+        "id": "fc7d5a75-7329-4456-8926-0a30388ae0c0",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "source": "Salary",
+        "amount": 13243234,
+        "frequency": "monthly"
+      }
+    ],
+    "336a12f8-1a12-498f-a21d-d3140c18d3c0": [
+      {
+        "id": "acb3699a-e714-4885-bb04-db8a05fee60e",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "source": "Salary",
+        "amount": 3244324,
+        "frequency": "monthly"
+      },
+      {
+        "id": "183863c1-698b-49b3-8d66-38f897278f01",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "source": "Salary",
+        "amount": 34123413,
+        "frequency": "monthly"
+      }
+    ],
+    "b27d4dab-7ff4-4965-8183-728610688c55": [
+      {
+        "id": "8b6b3e91-eb10-4e3d-8963-ea70031349ac",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "source": "Salary",
+        "amount": 200000,
+        "frequency": "monthly"
+      }
+    ]
+  },
+  "expenses": {
+    "19a65272-5f17-46b4-8f1e-5a7a3f0044af": [
+      {
+        "id": "7059556c-51f4-48aa-b56f-21615b52437b",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "category": "entertainment",
+        "amount": 13333,
+        "date": "2025-09-01T17:34:29.804Z",
+        "description": "",
+        "level": "moderate"
+      }
+    ],
+    "336a12f8-1a12-498f-a21d-d3140c18d3c0": [
+      {
+        "id": "301316bf-ef06-4dce-90df-c176402d5852",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "entertainment",
+        "amount": 243,
+        "date": "2025-09-01T18:04:40.360Z",
+        "description": "",
+        "level": "moderate"
+      },
+      {
+        "id": "8a16d40f-0a87-4789-a233-89df4aacdd9b",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "entertainment",
+        "amount": 3242,
+        "date": "2025-09-01T18:04:47.130Z",
+        "description": "",
+        "level": "moderate"
+      },
+      {
+        "id": "6eef1c71-eb1f-46a9-ac96-46f38fbdfb67",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "entertainment",
+        "amount": 615,
+        "date": "2025-09-01T18:05:03.003Z",
+        "description": "",
+        "level": "moderate"
+      }
+    ]
+  },
+  "budgets": {
+    "19a65272-5f17-46b4-8f1e-5a7a3f0044af": [
+      {
+        "id": "b5b8923b-e24d-4419-b213-c008c311c621",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "category": "housing",
+        "monthlyAmount": 1333
+      },
+      {
+        "id": "aaaf4363-9efc-4188-b94d-b73bef105a34",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "category": "food",
+        "monthlyAmount": 12324
+      },
+      {
+        "id": "bab5a640-36d2-45ea-ba56-2e8ef70c97a0",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "category": "transport",
+        "monthlyAmount": 12342
+      },
+      {
+        "id": "6395c21b-5a36-4231-ad7d-8dd0b25a84dc",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "category": "entertainment",
+        "monthlyAmount": 12342
+      },
+      {
+        "id": "f62ff692-0d37-4d25-ae3a-e39c4e2236a9",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "category": "investments",
+        "monthlyAmount": 132424
+      }
+    ],
+    "336a12f8-1a12-498f-a21d-d3140c18d3c0": [
+      {
+        "id": "567aaaf0-bb56-4cca-8677-182b9d7c804e",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "housing",
+        "monthlyAmount": 3423
+      },
+      {
+        "id": "17c404b0-4d91-4a41-b6d9-ef12c7f6d567",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "food",
+        "monthlyAmount": 234234
+      },
+      {
+        "id": "a18fc2a9-d43a-4c05-ae7f-0f900e7c5438",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "transport",
+        "monthlyAmount": 3243
+      },
+      {
+        "id": "f825e06c-12ad-4320-ae0e-d64cff4cc866",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "entertainment",
+        "monthlyAmount": 324234
+      },
+      {
+        "id": "2bb8220e-6673-4a42-93c6-0d03d2efcd4f",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "category": "investments",
+        "monthlyAmount": 324342
+      }
+    ],
+    "b27d4dab-7ff4-4965-8183-728610688c55": [
+      {
+        "id": "c8493a74-51c8-4eaa-949b-9daafffe8b8d",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "category": "housing",
+        "monthlyAmount": 10000
+      },
+      {
+        "id": "29989a30-0d06-4a20-b1fb-63c4d40b8928",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "category": "food",
+        "monthlyAmount": 15000
+      },
+      {
+        "id": "99adf3ec-80b6-4710-94c0-5cf4c22d8c2e",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "category": "transport",
+        "monthlyAmount": 10000
+      },
+      {
+        "id": "3b6f2d68-4f7a-4cab-b082-7e6548dc4831",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "category": "entertainment",
+        "monthlyAmount": 10000
+      },
+      {
+        "id": "f08812ec-46cb-4d05-bee4-77d2710abc8d",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "category": "investments",
+        "monthlyAmount": 20000
+      }
+    ]
+  },
+  "goals": {
+    "19a65272-5f17-46b4-8f1e-5a7a3f0044af": [
+      {
+        "id": "6feb1d4b-a7fb-4cc9-a716-3e8401167550",
+        "userId": "19a65272-5f17-46b4-8f1e-5a7a3f0044af",
+        "name": "Buy a car",
+        "targetAmount": 1500000,
+        "targetDate": "2026-09-01"
+      }
+    ],
+    "336a12f8-1a12-498f-a21d-d3140c18d3c0": [
+      {
+        "id": "f82a0fc5-5f9e-4f3c-8153-a7ec9e442bbf",
+        "userId": "336a12f8-1a12-498f-a21d-d3140c18d3c0",
+        "name": "Buy a car",
+        "targetAmount": 1500000,
+        "targetDate": "2026-09-01"
+      }
+    ],
+    "b27d4dab-7ff4-4965-8183-728610688c55": [
+      {
+        "id": "20008e7a-ad92-4419-ab8f-a8278794b06b",
+        "userId": "b27d4dab-7ff4-4965-8183-728610688c55",
+        "name": "Buy a car",
+        "targetAmount": 1500000,
+        "targetDate": "2027-10-23"
+      }
+    ]
+  }
+}
